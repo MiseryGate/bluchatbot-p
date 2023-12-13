@@ -5,9 +5,6 @@ pandas
 seaborn
 scikit-learn
 openpyxl
-transformers
-joblib
-tqdm
 torch
 google-generativeai
 pyvis
@@ -17,8 +14,6 @@ langchainhub
 unstructured
 langchain
 openai
-sentence-transformers
-tiktoken
 faiss-cpu
 pinecone-client
 python-dotenv
