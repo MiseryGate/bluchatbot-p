@@ -21,3 +21,4 @@ sentence-transformers
 tiktoken
 faiss-cpu
 pinecone-client
+python-dotenv
