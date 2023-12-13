@@ -22,3 +22,4 @@ tiktoken
 faiss-cpu
 pinecone-client
 python-dotenv
+PyPDF2
