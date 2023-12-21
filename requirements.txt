@@ -20,3 +20,4 @@ python-dotenv
 PyPDF2
 transformers
 torch
+sentence_transformers
